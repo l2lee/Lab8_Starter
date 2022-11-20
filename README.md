@@ -1,7 +1,8 @@
 # Lab 8 - Starter
 Done individually — Lucas Lee
 
-Entire result of `npm test` can be viewed [here](https://app.warp.dev/block/dWue3SQlZHRkhfj05S5eBS)
+Entire result of `npm test` can be viewed [here](https://app.warp.dev/block/dWue3SQlZHRkhfj05S5eBS).
+
 Alternatively, there are screenshots below
 ![part 1](./screenshots/part-1.png)
 ![part 2](./screenshots/part-2.png)
